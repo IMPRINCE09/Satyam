@@ -62,7 +62,7 @@ section{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 80vh;
+  
 
 
 }
@@ -81,7 +81,7 @@ section{
 
 @media only  screen and (max-width:1024px) {
     .carousel_item{
-      height: 90vh;
+      
     }
     .c_card_text{
         margin-top: 40px;
@@ -94,7 +94,7 @@ section{
 .section_aboute{
     width: 100%;
     height: fit-content;
-    margin: 30px 0px 0px 0px;
+   
     background-color: rgb(244, 243, 243);
     padding-bottom: 20px;
 
