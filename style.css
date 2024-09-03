@@ -80,9 +80,7 @@ section{
 
 
 @media only  screen and (max-width:1024px) {
-    .carousel_item{
-      
-    }
+   
     .c_card_text{
         margin-top: 40px;
     }
@@ -274,8 +272,14 @@ section{
 
     }
     .mission_one{
+        width: 100%;
+        display: flex;
+         justify-content: center;
+
+        
+    }
+    .mission_one img{
         width: 90%;
-    
     }
     
     .mission_two{
