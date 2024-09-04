@@ -22,7 +22,7 @@ section{
 
 /* home section */
 .section_home{
-    height: 100vh;
+    
     width: 100%;
     
 }
@@ -54,7 +54,8 @@ section{
 
 }
 .carousel_item img{
-    height: 80vh;
+   width: 100%;
+   height: 100%;
   
 }
 .Crousel_back_img{
