@@ -55,7 +55,7 @@ section{
 }
 .carousel_item img{
    width: 100%;
-   height: 100%;
+   height: 90vh;
   
 }
 .Crousel_back_img{
@@ -287,6 +287,15 @@ section{
         width: 90%;
         margin: 10px;
     
+    }
+    .carousel_item{
+           width: 100%;
+           height: 100%;
+
+    }
+    .carousel_item img{
+        width: 100%;
+        height: 100%;
     }
 }
 
